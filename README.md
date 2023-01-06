@@ -1,2 +1,2 @@
 # UPI
-The code for UPI payment gateway 
+The code for Razor payment gateway 
